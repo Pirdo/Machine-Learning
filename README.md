@@ -30,7 +30,7 @@ Para vizualizar quantos elementos existem por classe, execute o arquivo `showAmo
 
 Para sumarizar os dados do Dataset por média, moda, mediana, quartil, mínimo, máximo, variância, desvio padrão, execute o arquivo `prepareData.py`, ele irá gerar um CSV.
 
-Para executar o modelo de ML, execute o arquivo `modelo.py`, ele pega os dados do arquivo CSV `medias.csv`, e executa a previsão, exibindo um gráfico.
+Para executar o modelo de ML, execute o arquivo `modelo.py`, ele pega os dados do arquivo CSV `unemployment_predictions.csv`, e executa a previsão, exibindo um gráfico.
 
 ### Conclusão
 

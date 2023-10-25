@@ -2,7 +2,7 @@
 
 ### Problema
 
-O problema analisado, é verificar a importância da educação em relação ao desemprego nos Estados Unidos.
+O problema analisado, é prever o índice de desemprego nos Estados Unidos dos próximos 10 meses, se baseando no histórico do índice.
 
 ### Dataset
 
